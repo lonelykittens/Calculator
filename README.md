@@ -1,4 +1,2 @@
 # Calculator
-First Modify JJong
-yeji!!
-testestest
+Conflict1
